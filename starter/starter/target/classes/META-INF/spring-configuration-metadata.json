@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "json.name",
+      "type": "com.shu.starter.config.JsonProperties",
+      "sourceType": "com.shu.starter.config.JsonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "json.name.prefix-name",
+      "type": "java.lang.String",
+      "sourceType": "com.shu.starter.config.JsonProperties",
+      "defaultValue": "@"
+    },
+    {
+      "name": "json.name.suffix-name",
+      "type": "java.lang.String",
+      "sourceType": "com.shu.starter.config.JsonProperties",
+      "defaultValue": "@"
+    }
+  ],
+  "hints": []
+}

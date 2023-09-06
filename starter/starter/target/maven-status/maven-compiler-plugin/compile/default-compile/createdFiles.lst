@@ -1,0 +1,4 @@
+com\shu\starter\config\JsonProperties.class
+com\shu\starter\json\Converter.class
+com\shu\starter\config\JsonConfiguration.class
+META-INF\spring-configuration-metadata.json
